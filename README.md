@@ -1,4 +1,4 @@
-# Quantitative-Data-Analysis
-This repository serves as a container for my Learning Experience Journey in going Quantitative Data Analysis
+# Qualitative-Data-Analysis
+This repository serves as a container for my Learning Experience Journey in Qualitative Data Analysis
 
-The Software:
+The Software: NVivo
