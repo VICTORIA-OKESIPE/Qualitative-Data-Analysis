@@ -4,5 +4,5 @@ This repository serves as a container for my Learning Experience Journey in Qual
 ## The Software: NVivo
 This software can either be used thematic analysis or content analysis.
 
-<img width="360" alt="image" src="https://github.com/user-attachments/assets/8608ba1c-5580-4f73-8809-6c7bc847c557" />
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/8608ba1c-5580-4f73-8809-6c7bc847c557" />
 
