@@ -2,4 +2,4 @@
 This repository serves as a container for my Learning Experience Journey in Qualitative Data Analysis
 
 ## The Software: NVivo
-
+This software is useful fo
