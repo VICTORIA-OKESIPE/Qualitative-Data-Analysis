@@ -10,3 +10,6 @@ First, I would be trying out the thematic analysis first, since that is what I n
 
 # Task
 Text from key findings and future research directions of academic papers are to be analyzed, and see themes yhat emerged during thos iterative process.
+
+# Steps
+#1. Get an NVivo software by downloading it.
