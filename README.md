@@ -13,6 +13,8 @@ Text from key findings and future research directions of academic papers are to 
 
 # Steps
 #1. Get an NVivo software by downloading it.
+
 #2. Get some refresher tutorials.
+
 #3. Prepare the data.
 #4. Start analyzing.
