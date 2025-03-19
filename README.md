@@ -22,4 +22,9 @@ Text from key findings and future research directions of academic papers are to 
 
 
 # Alternative to NVivo (using MS word):
-# 7 steps to
+# 7 Basic steps of Conducting Manual coding
+#1. Assign labels to your research questions.
+
+#2. Using specific coding method(s), code relevant statements and put them under their respective anchor codes.
+
+#3. Compile a list of initial codes.
