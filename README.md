@@ -20,3 +20,6 @@ Text from key findings and future research directions of academic papers are to 
 
 #4. Start analyzing.
 
+
+# Alternative to NVivo (using MS word):
+# 7 steps to
