@@ -39,3 +39,4 @@ Text from key findings and future research directions of academic papers are to 
 
 
 # Let's talk a little bit about the process of generating codes
+#Step 1. Having a quick summary of your data first
