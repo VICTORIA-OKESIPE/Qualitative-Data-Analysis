@@ -36,3 +36,6 @@ Text from key findings and future research directions of academic papers are to 
 #6. Generate categories/themes to address the research questions.
 
 #7. Visualize codes, categories and themes generated
+
+
+# Let's talk a little bit about 
