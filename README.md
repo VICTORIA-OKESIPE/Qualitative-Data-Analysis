@@ -38,4 +38,4 @@ Text from key findings and future research directions of academic papers are to 
 #7. Visualize codes, categories and themes generated
 
 
-# Let's talk a little bit about 
+# Let's talk a little bit about the process of generating codes
