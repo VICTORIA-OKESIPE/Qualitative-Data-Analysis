@@ -47,4 +47,4 @@ Text from key findings and future research directions of academic papers are to 
 
 #Step 4: Once done with coding, start categorizing them into themes.
 
-#Step 5: Visualize your themes/codes - 
+#Step 5: Visualize your themes/codes - Word count might be in order.
