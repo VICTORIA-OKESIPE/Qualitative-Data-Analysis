@@ -53,7 +53,11 @@ Text from key findings and future research directions of academic papers are to 
 # Let's talk a little bit about the process of generating codes
 #Step 1. Having a quick summary of your data first. This you could do my reading through or leveraging any method that works for you to have a quick snapshot of your data.
 
+
+
 #Step 2: Read through your text sentence-by-sentence.
+
+
 
 #Step 3: Identity the one thing that the sentence represents, and code it in NVivo.
 
