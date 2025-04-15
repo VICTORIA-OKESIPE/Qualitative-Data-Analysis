@@ -9,6 +9,7 @@ This software can either be used thematic analysis or content analysis.
 
 First, I would be trying out the thematic analysis first, since that is what I need for the task at hand (at the moment).
 
+
 # Task
 Text from key findings and future research directions of academic papers are to be analyzed, and see themes yhat emerged during thos iterative process.
 
